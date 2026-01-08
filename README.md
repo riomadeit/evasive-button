@@ -1,6 +1,6 @@
 # evasive-button
 
-Make any button evade the cursor - the viral "Book a Call" effect from [DidICook Studio](https://didicook-studio.vercel.app).
+Make any button evade the cursor.
 
 ## Installation
 
