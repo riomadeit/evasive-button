@@ -34,7 +34,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/riomadeit/evasive-button.git"
   },
   "devDependencies": {
     "tsup": "^8.0.1",
